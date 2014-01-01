@@ -26,6 +26,15 @@ regions[page_bottom]    = 'Page bottom'
 
 stylesheets[all][] = css/style.css
 
+; Global
+; --------------
+settings[toggle_name] = 1
+settings[toggle_search] = 0
+
+; Advanced
+; --------------
+settings[bootstrap_cdn] = 3.0.2
+settings[bootstrap_bootswatch] = 'Yeti'
 
 ; For information on choosing the desired method, please read the Drupal
 ; Bootstrap sub-theme "how-to" documentation:
